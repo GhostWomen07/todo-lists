@@ -1,7 +1,6 @@
 import React from 'react';
 import Form from 'react-bootstrap/Form';
 
-
 function AddNoteForm({title,setTitle,detail,setDetail}) {
     return (
         <>
